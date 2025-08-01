@@ -7,7 +7,7 @@ Mau klaim ini file animasi buatan kalian? silahkan saja, saya tidak peduli tenta
 # Addon Bender Untuk Atur Mirror
 Semua toolset sudah di sediakan oleh Mateus Hiperbole/Akitotheanimator: [Disini](https://github.com/akitotheanimator)
 # Credits
-• [Akitotheanimator].([https://youtube.com/@mustopuhggi?si=xY7X5OCWXMmbIjNp](https://github.com/akitotheanimator)).
-• [MustopuhGGI].(https://youtube.com/@mustopuhggi?si=xY7X5OCWXMmbIjNp).
+• [Akitotheanimator]([https://youtube.com/@mustopuhggi?si=xY7X5OCWXMmbIjNp](https://github.com/akitotheanimator))
+• [MustopuhGGI](https://youtube.com/@mustopuhggi?si=xY7X5OCWXMmbIjNp)
 • [Andriyan Blaze](https://www.facebook.com/andriyan.blaze.35?mibextid=ZbWKwL)
 
