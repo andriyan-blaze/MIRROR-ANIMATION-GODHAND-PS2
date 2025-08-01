@@ -6,6 +6,8 @@ Mau klaim ini file animasi buatan kalian? silahkan saja, saya tidak peduli tenta
 (YouTube: MustopuhGGI): [Disini](https://youtu.be/Q24vA51urb4?si=WmcGybUgylWKdttt)
 # Addon Bender Untuk Atur Mirror
 Semua toolset sudah di sediakan oleh Mateus Hiperbole/Akitotheanimator: [Disini](https://github.com/akitotheanimator)
+# Discord Modding
+Gabung discord untuk tutorial atau panduan lain: [Disini](https://discord.gg/FQu9eFBX)
 # Credits
 • [Akitotheanimator](https://github.com/akitotheanimator)
 • [MustopuhGGI](https://youtube.com/@mustopuhggi?si=xY7X5OCWXMmbIjNp)
