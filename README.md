@@ -14,6 +14,7 @@ Gabung discord untuk tutorial atau panduan lain:
 # Credits
 • [Akitotheanimator](https://github.com/akitotheanimator)
 • [MustopuhGGI](https://youtube.com/@mustopuhggi?si=xY7X5OCWXMmbIjNp)
+• [Lieval](https://youtu.be/qlBK0fRf2RY?si=UdsPfr0h9R-46Ci3)
 • [Andriyan Blaze](https://www.facebook.com/andriyan.blaze.35?mibextid=ZbWKwL)
 • Etc
 
